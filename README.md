@@ -1,5 +1,5 @@
 # SU-DevOps-cloud
-🏫 Campus Complaint & Maintenance Management System
+# Campus Complaint & Maintenance Management System
 A DevOps & Cloud Foundation (IBM) Mini Project designed to digitize campus maintenance complaints and improve tracking, technician assignment, SLA monitoring, and resolution verification.
 🎯 Objective
 To replace manual complaint registers with a centralized digital platform for faster, transparent, and accountable campus maintenance.
